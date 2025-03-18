@@ -1,7 +1,7 @@
 # IAM-Portfolio-Project
 
 <h3>This is my first portfolio project as a cloud engineer. </h3>
-<p> In this portfolio projects, my attempt is to demonstrate my knowledge of IAM in AWS, and how to fully utilize it's features and security measures. Any and all scenarios in this text are fictional, and any resemeblence to any scenario is unintentional 
+<p> In this portfolio project, my attempt is to demonstrate my knowledge of IAM in AWS, and how to fully utilize it's features and security measures. Any and all scenarios in this text are fictional, and any resemeblence to any scenario is unintentional 
 For this project we are going to be examining the issues in the workplace when it comes to incorrectly using the IAM service in AWS. This features covers all aspects of roles, groups, and users in the AWS cloud service. Improperly using it can be detrimental to your business, it's reputation, it's revenue,and much more. To ensure I maximized the full potential of securing this company's IAM resources, I will be referencing the AWS Services and policies many times, as well as their best practices. Thank you for looking. </p>
 
 <h2>Scenario:</h2>
